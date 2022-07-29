@@ -1,3 +1,3 @@
 # e
-just an e++ language
+just an e language
 because why not ? 
